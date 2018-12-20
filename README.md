@@ -29,7 +29,7 @@
 
  * <b><u>Tools Used </u>:</b> <i> Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Scipy Tableau public Version .</i>  
  
-I have created another repository containing project for data analysis it can be viewed here [Data_Analysis](https://github.com/neha592/EDA_ML_FILES)
+I have created another repository containing project for data analysis it can be viewed here [Data_Analysis](https://github.com/neha592/EDA)
 
 I have performed Data Analysis on few datasets using Tableau Public Version whose link is here: [Tableau Profile](https://public.tableau.com/profile/neha.singh3254#!/).
 
