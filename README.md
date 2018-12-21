@@ -7,25 +7,25 @@
 # <i>Contents: </i>
 * <b>Machine Learning Algorithms: </b>
 
-    3. [Linear Regression](https://github.com/neha592/Machine_Learning/blob/master/Linear_regression_model.ipynb) : To perform Linear Regression on Iris Dataset and distinguish the flower types.
+    1. [Iris Flower dataset using Linear Regression](https://github.com/neha592/Machine_Learning/blob/master/Iris%20Flower%20dataset%20using%20Linear%20Regression.ipynb) : To perform Linear Regression on Iris Dataset and distinguish the flower types.
     
-    4. [Logistic Regression](https://github.com/neha592/Machine_Learning/blob/master/logistic_regression.ipynb)  : To predict the gender of abalone using Logistic Regression Classifier Algorithm.
+    2. [Abalone classification problem](https://github.com/neha592/Machine_Learning/blob/master/Abalone%20classification%20problem.ipynb)  : To predict the gender of abalone using Logistic Regression Classifier Algorithm.
     
-    5. [Decision Tree and Random Forest](https://github.com/neha592/Machine_Learning/blob/master/decision_tree_random_forest_model.ipynb) : To Perform Classification of iris species using Decision Tree & Random Forest Classifier given           sepal. petal length and widh.
+    3. [Flower type classification using DT & RF classifier](https://github.com/neha592/Machine_Learning/blob/master/Flower%20type%20classification%20using%20DT%20%26%20RF%20classifier.ipynb) : To Perform Classification of iris species using Decision Tree & Random Forest Classifier given           sepal. petal length and widh.
 
-    6. [PCA](https://github.com/neha592/Machine_Learning/blob/master/pca.ipynb) : To perform PCA on the dataset containing information about tumor of Breast Cancer. need to classify Malignant and Benign            types .
+    4. [Breast Cancer classification problem (pca)](https://github.com/neha592/Machine_Learning/blob/master/Breast%20Cancer%20classification%20problem%20(pca).ipynb) : To perform PCA on the dataset containing information about tumor of Breast Cancer. need to classify Malignant and Benign            types .
     
-    7. [SVM](https://github.com/neha592/Machine_Learning/blob/master/SVM.ipynb) : To predict the gender of abalone using Support Vector Classifier Algorithm and also Grid Search for tuning the parametres.
+    5. [Abalone gender detection using SVM](https://github.com/neha592/Machine_Learning/blob/master/Abalone%20gender%20detection%20using%20SVM.ipynb) : To predict the gender of abalone using Support Vector Classifier Algorithm and also Grid Search for tuning the parametres.
     
-    8. [KMeans](https://github.com/neha592/Machine_Learning/blob/master/Kmeans.ipynb) : Perform cluster analysis with K means Algorithm using optimal using Elbow method and Hierarchical clustering with              suitable dendogram on Crime Data of different states of USA .
+    6. [Crime data cluster segmentation and recommendation](https://github.com/neha592/Machine_Learning/blob/master/Crime%20data%20cluster%20segmentation%20and%20recommendation.ipynb) : Perform cluster analysis with K means Algorithm using optimal using Elbow method and Hierarchical clustering with              suitable dendogram on Crime Data of different states of USA .
     
-    9. [Naive Bayes](https://github.com/neha592/Machine_Learning/blob/master/naive_bayes_.ipynb) : To try recognize sentiment from the different English Phrases by using Naive Bayes Classifier algorithm.
+    7. [Phrase Sentiment detection](https://github.com/neha592/Machine_Learning/blob/master/Phrase%20Sentiment%20detection.ipynb) : To try recognize sentiment from the different English Phrases by using Naive Bayes Classifier algorithm.
     
-    10. [Time Series](https://github.com/neha592/Machine_Learning/blob/master/time_series.ipynb) : To Analyse the trends in Bitcoin Dataset and forecast the opening trends for the Bitcoin.
+    8. [Bitcoin trend analysis with Time series](https://github.com/neha592/Machine_Learning/blob/master/Bitcoin%20trend%20analysis%20with%20Time%20series.ipynb) : To Analyse the trends in Bitcoin Dataset and forecast the opening trends for the Bitcoin.
     
-    11. [KNN](https://github.com/neha592/Machine_Learning/blob/master/KNN.ipynb) : To perform KNN algorithm on data set to build the model using Hyperparameter tuning (Grid SearchCV) for dataset containing         information about tumor of Breast Cancer. need to classify Malignant and Benign types .
+    9. [cancer type classification using KNN](https://github.com/neha592/Machine_Learning/blob/master/cancer%20type%20classification%20using%20KNN.ipynb) : To perform KNN algorithm on data set to build the model using Hyperparameter tuning (Grid SearchCV) for dataset containing         information about tumor of Breast Cancer. need to classify Malignant and Benign types .
     
-    12. [Project](https://github.com/neha592/Machine_Learning/blob/master/Project.ipynb) : The aim is to predict the wine quality using regression modelling. Need to perform data analysis and post out the             finding from the analysis.
+    10. [wine quality prediction](https://github.com/neha592/Machine_Learning/blob/master/wine%20quality%20prediction.ipynb) : The aim is to predict the wine quality using regression modelling. Need to perform data analysis and post out the             finding from the analysis.
 
  * <b><u>Tools Used </u>:</b> <i> Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, Scipy Tableau public Version .</i>  
  
